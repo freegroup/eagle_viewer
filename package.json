@@ -1,0 +1,27 @@
+{
+  "name": "eagle_viewer",
+  "version": "1.0.0",
+  "description": "Demo application to render Eagle files on the web",
+  "main": "index.html",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freegroup/eagle_viewer.git"
+  },
+  "keywords": [
+    "diagramming",
+    "canvas",
+    "HTML5",
+    "js"
+  ],
+  "author": "Andreas Herz (FreeGroup)",
+  "license": "GPL",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-copy": "~0.8.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-gh-pages": "^0.10.0"
+  },
+  "dependencies": {
+  }
+}
